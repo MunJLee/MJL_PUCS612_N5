@@ -2,8 +2,8 @@
 This module is the entry point of this application.
 RestApi endpoints are set here.
 
-created with Python 3.6
-venv used
+Created with Python 3.6
+See requirements.txt for dependencies.
 """
 
 from flask import Flask, jsonify, render_template
